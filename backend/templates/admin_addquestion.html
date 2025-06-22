@@ -1,0 +1,28 @@
+<!-- File: templates/admin_addquestion.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Add Question</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="form-box">
+    <h2>Add New Question</h2>
+    <form action="/submit-question" method="post" enctype="multipart/form-data">
+      <select name="branch" required>
+        <option value="">Select Branch</option>
+        <option value="CSE">CSE</option>
+        <option value="ECE">ECE</option>
+      </select>
+      <select name="subject" required>
+        <option value="">Select Subject</option>
+        <option value="Data Structures">Data Structures</option>
+        <option value="AI">AI</option>
+      </select>
+      <input type="file" name="file" required>
+      <button type="submit">Upload</button>
+    </form>
+  </div>
+</body>
+</html>

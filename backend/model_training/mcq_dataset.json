@@ -1,0 +1,5176 @@
+[
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the primary goal of Artificial Intelligence?",
+    "options": [
+      "To create systems that can perform tasks requiring human intelligence",
+      "To build hardware devices",
+      "To develop websites",
+      "To create databases"
+    ],
+    "answer": "To create systems that can perform tasks requiring human intelligence"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which of the following is a branch of AI?",
+    "options": [
+      "Machine Learning",
+      "Database Management",
+      "Network Security",
+      "Operating Systems"
+    ],
+    "answer": "Machine Learning"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What does a Turing Test evaluate?",
+    "options": [
+      "A machine's ability to exhibit intelligent behavior indistinguishable from a human",
+      "Machine speed",
+      "Database accuracy",
+      "Network efficiency"
+    ],
+    "answer": "A machine's ability to exhibit intelligent behavior indistinguishable from a human"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What type of AI is designed to perform a specific task?",
+    "options": [
+      "Narrow AI",
+      "General AI",
+      "Super AI",
+      "Weak AI"
+    ],
+    "answer": "Narrow AI"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which algorithm is used for supervised learning?",
+    "options": [
+      "Decision Tree",
+      "K-means clustering",
+      "Apriori",
+      "Genetic Algorithm"
+    ],
+    "answer": "Decision Tree"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the main purpose of Reinforcement Learning?",
+    "options": [
+      "To learn from rewards and punishments",
+      "To cluster data points",
+      "To sort data",
+      "To store information"
+    ],
+    "answer": "To learn from rewards and punishments"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the function of a Perceptron?",
+    "options": [
+      "It is a basic unit of a neural network for binary classification",
+      "It stores data",
+      "It encrypts information",
+      "It manages databases"
+    ],
+    "answer": "It is a basic unit of a neural network for binary classification"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which AI technique mimics the human brain’s neural connections?",
+    "options": [
+      "Artificial Neural Networks",
+      "Decision Trees",
+      "Support Vector Machines",
+      "Bayesian Networks"
+    ],
+    "answer": "Artificial Neural Networks"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘overfitting’ in machine learning?",
+    "options": [
+      "Model performs well on training data but poorly on new data",
+      "Model performs poorly on training data",
+      "Model perfectly predicts data",
+      "Model ignores training data"
+    ],
+    "answer": "Model performs well on training data but poorly on new data"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which search algorithm uses heuristics to find the shortest path?",
+    "options": [
+      "A* Search",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Linear Search"
+    ],
+    "answer": "A* Search"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What does the term ‘knowledge representation’ mean in AI?",
+    "options": [
+      "How information is stored and structured for reasoning",
+      "Data cleaning process",
+      "Data storage process",
+      "Machine learning algorithm"
+    ],
+    "answer": "How information is stored and structured for reasoning"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is a state space in AI search algorithms?",
+    "options": [
+      "The set of all possible configurations of a problem",
+      "The memory location of data",
+      "The hardware specification",
+      "The output of a program"
+    ],
+    "answer": "The set of all possible configurations of a problem"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the role of a heuristic function in AI?",
+    "options": [
+      "To estimate the cost to reach the goal from a given state",
+      "To store data",
+      "To encrypt data",
+      "To clean data"
+    ],
+    "answer": "To estimate the cost to reach the goal from a given state"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which AI concept is used in Natural Language Processing?",
+    "options": [
+      "Syntax and semantics",
+      "Data mining",
+      "Network protocols",
+      "File systems"
+    ],
+    "answer": "Syntax and semantics"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the function of a chatbot?",
+    "options": [
+      "To simulate human conversation",
+      "To store files",
+      "To encrypt messages",
+      "To manage databases"
+    ],
+    "answer": "To simulate human conversation"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which logic is used in AI to handle uncertain or incomplete information?",
+    "options": [
+      "Fuzzy Logic",
+      "Propositional Logic",
+      "Predicate Logic",
+      "Boolean Logic"
+    ],
+    "answer": "Fuzzy Logic"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the main purpose of expert systems?",
+    "options": [
+      "To simulate decision-making of a human expert",
+      "To store databases",
+      "To manage networks",
+      "To encrypt data"
+    ],
+    "answer": "To simulate decision-making of a human expert"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which method is used to train deep learning models?",
+    "options": [
+      "Backpropagation",
+      "Forward chaining",
+      "Breadth-first search",
+      "K-means clustering"
+    ],
+    "answer": "Backpropagation"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is a Markov Decision Process?",
+    "options": [
+      "A mathematical framework for modeling decision making in situations with",
+      "A database schema",
+      "A network protocol",
+      "A hardware device"
+    ],
+    "answer": "A mathematical framework for modeling decision making in situations with"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which of the following is an example of unsupervised learning?",
+    "options": [
+      "K-means clustering",
+      "Decision Tree",
+      "Support Vector Machine",
+      "Linear Regression"
+    ],
+    "answer": "K-means clustering"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the goal of sentiment analysis?",
+    "options": [
+      "To determine the sentiment expressed in text data",
+      "To classify images",
+      "To encrypt messages",
+      "To compress data"
+    ],
+    "answer": "To determine the sentiment expressed in text data"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the difference between AI and Machine Learning?",
+    "options": [
+      "Machine Learning is a subset of AI focused on learning from data",
+      "AI is a subset of Machine Learning",
+      "They are the same",
+      "AI focuses on hardware, Machine Learning on software"
+    ],
+    "answer": "Machine Learning is a subset of AI focused on learning from data"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the ‘curse of dimensionality’ in AI?",
+    "options": [
+      "Challenges faced when dealing with data with many features",
+      "Data loss during transfer",
+      "Network failure",
+      "Hardware malfunction"
+    ],
+    "answer": "Challenges faced when dealing with data with many features"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which algorithm is used for classification problems?",
+    "options": [
+      "Support Vector Machine",
+      "Apriori",
+      "K-means",
+      "Dijkstra’s algorithm"
+    ],
+    "answer": "Support Vector Machine"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is a confusion matrix used for?",
+    "options": [
+      "To evaluate the performance of classification models",
+      "To encrypt data",
+      "To store databases",
+      "To mine data"
+    ],
+    "answer": "To evaluate the performance of classification models"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What does ‘precision’ measure?",
+    "options": [
+      "The proportion of true positive predictions among all positive predictions",
+      "The total number of predictions",
+      "The speed of the algorithm",
+      "The amount of data used"
+    ],
+    "answer": "The proportion of true positive predictions among all positive predictions"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What does ‘recall’ measure?",
+    "options": [
+      "The proportion of true positive predictions among all actual positives",
+      "The total number of predictions",
+      "The speed of the algorithm",
+      "The amount of data used"
+    ],
+    "answer": "The proportion of true positive predictions among all actual positives"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the role of activation function in a neural network?",
+    "options": [
+      "To introduce non-linearity into the model",
+      "To store data",
+      "To encrypt data",
+      "To clean data"
+    ],
+    "answer": "To introduce non-linearity into the model"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which AI technique is best for image recognition?",
+    "options": [
+      "Convolutional Neural Networks",
+      "Decision Trees",
+      "Linear Regression",
+      "Apriori Algorithm"
+    ],
+    "answer": "Convolutional Neural Networks"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘transfer learning’?",
+    "options": [
+      "Using a pre-trained model on a new related problem",
+      "Moving data from one database to another",
+      "Transferring data packets over the network",
+      "Encrypting data for transfer"
+    ],
+    "answer": "Using a pre-trained model on a new related problem"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘natural language processing’?",
+    "options": [
+      "The ability of a computer to understand and interpret human language",
+      "Network programming",
+      "Data encryption",
+      "Image processing"
+    ],
+    "answer": "The ability of a computer to understand and interpret human language"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the main idea behind genetic algorithms?",
+    "options": [
+      "Using principles of natural selection and genetics to solve optimization problems",
+      "Sorting data",
+      "Storing data",
+      "Encrypting messages"
+    ],
+    "answer": "Using principles of natural selection and genetics to solve optimization problems"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is a decision tree?",
+    "options": [
+      "A tree-like model used to make decisions based on features",
+      "A data storage technique",
+      "A network topology",
+      "A file system"
+    ],
+    "answer": "A tree-like model used to make decisions based on features"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What does AI planning involve?",
+    "options": [
+      "Creating a sequence of actions to achieve a goal",
+      "Data cleaning",
+      "Data mining",
+      "File management"
+    ],
+    "answer": "Creating a sequence of actions to achieve a goal"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which of the following is a method of knowledge acquisition?",
+    "options": [
+      "Machine learning",
+      "Data storage",
+      "Network routing",
+      "Encryption"
+    ],
+    "answer": "Machine learning"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the function of a knowledge base in AI?",
+    "options": [
+      "To store facts and rules about the domain",
+      "To encrypt data",
+      "To manage networks",
+      "To store files"
+    ],
+    "answer": "To store facts and rules about the domain"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the ‘exploration vs exploitation’ dilemma?",
+    "options": [
+      "Choosing between exploring new actions or exploiting known ones in learning",
+      "Data storage options",
+      "Network configuration",
+      "Encryption methods"
+    ],
+    "answer": "Choosing between exploring new actions or exploiting known ones in learning"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What does ‘supervised learning’ require?",
+    "options": [
+      "Labeled training data",
+      "Unlabeled data",
+      "No data",
+      "Random data"
+    ],
+    "answer": "Labeled training data"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the output of a classification model?",
+    "options": [
+      "Discrete class labels",
+      "Continuous values",
+      "Raw data",
+      "Images"
+    ],
+    "answer": "Discrete class labels"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What does a ‘neuron’ in an artificial neural network do?",
+    "options": [
+      "Computes weighted sum of inputs and applies activation",
+      "Stores data",
+      "Encrypts data",
+      "Transfers data"
+    ],
+    "answer": "Computes weighted sum of inputs and applies activation"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the main benefit of using AI in healthcare?",
+    "options": [
+      "To assist in diagnosis and personalized treatment",
+      "To store medical records",
+      "To secure hospital networks",
+      "To manage appointments"
+    ],
+    "answer": "To assist in diagnosis and personalized treatment"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the goal of clustering?",
+    "options": [
+      "Group similar data points together",
+      "Classify data points",
+      "Encrypt data",
+      "Compress data"
+    ],
+    "answer": "Group similar data points together"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is an example of reinforcement learning environment?",
+    "options": [
+      "A game where an agent learns to win by trial and error",
+      "Sorting algorithm",
+      "Data encryption software",
+      "Database management system"
+    ],
+    "answer": "A game where an agent learns to win by trial and error"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is a ‘policy’ in reinforcement learning?",
+    "options": [
+      "A strategy mapping states to actions",
+      "A data cleaning method",
+      "A data storage technique",
+      "A neural network layer"
+    ],
+    "answer": "A strategy mapping states to actions"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is an advantage of deep learning?",
+    "options": [
+      "Ability to automatically extract features from raw data",
+      "Requires less data",
+      "Simpler to understand",
+      "Runs faster on CPUs"
+    ],
+    "answer": "Ability to automatically extract features from raw data"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What does ‘backpropagation’ do?",
+    "options": [
+      "Updates neural network weights based on error",
+      "Encrypts data",
+      "Stores data",
+      "Transfers data"
+    ],
+    "answer": "Updates neural network weights based on error"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which of the following is an AI programming language?",
+    "options": [
+      "Prolog",
+      "HTML",
+      "SQL",
+      "CSS"
+    ],
+    "answer": "Prolog"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the purpose of a ‘knowledge engineer’?",
+    "options": [
+      "To develop and maintain expert systems",
+      "To store data",
+      "To design networks",
+      "To encrypt data"
+    ],
+    "answer": "To develop and maintain expert systems"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is an example of AI in daily life?",
+    "options": [
+      "Virtual assistants like Siri or Alexa",
+      "Word processors",
+      "Web browsers",
+      "Email clients"
+    ],
+    "answer": "Virtual assistants like Siri or Alexa"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the primary difference between AI and robotics?",
+    "options": [
+      "AI focuses on intelligence, robotics on physical machines",
+      "Robotics is a subset of AI",
+      "AI only works with robots",
+      "Robotics is software only"
+    ],
+    "answer": "AI focuses on intelligence, robotics on physical machines"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘semantic web’?",
+    "options": [
+      "Web data structured for machine understanding",
+      "A website for semantic studies",
+      "A social media platform",
+      "A database system"
+    ],
+    "answer": "Web data structured for machine understanding"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which learning method does not require labeled data?",
+    "options": [
+      "Unsupervised learning",
+      "Supervised learning",
+      "Reinforcement learning",
+      "Deep learning"
+    ],
+    "answer": "Unsupervised learning"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the use of a ‘knowledge inference engine’?",
+    "options": [
+      "To apply rules and derive new knowledge",
+      "To store data",
+      "To encrypt messages",
+      "To manage networks"
+    ],
+    "answer": "To apply rules and derive new knowledge"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘curse of dimensionality’?",
+    "options": [
+      "Difficulty in analyzing data with many features",
+      "Loss of data during transfer",
+      "Error in logic programming",
+      "Network failure"
+    ],
+    "answer": "Difficulty in analyzing data with many features"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which AI algorithm is used for pattern recognition?",
+    "options": [
+      "Neural Networks",
+      "Quick Sort",
+      "Linear Search",
+      "Hashing"
+    ],
+    "answer": "Neural Networks"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the role of ‘training data’?",
+    "options": [
+      "To teach the machine learning model",
+      "To test the model",
+      "To store data",
+      "To encrypt data"
+    ],
+    "answer": "To teach the machine learning model"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘bag of words’ model used for?",
+    "options": [
+      "Text feature extraction in NLP",
+      "Image classification",
+      "Data encryption",
+      "Database indexing"
+    ],
+    "answer": "Text feature extraction in NLP"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which algorithm is used in AI for decision making under uncertainty?",
+    "options": [
+      "Bayesian Networks",
+      "Dijkstra’s Algorithm",
+      "Quick Sort",
+      "BFS"
+    ],
+    "answer": "Bayesian Networks"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘dimensionality reduction’?",
+    "options": [
+      "Reducing the number of input variables",
+      "Increasing data size",
+      "Encrypting data",
+      "Storing data"
+    ],
+    "answer": "Reducing the number of input variables"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the ‘learning rate’ in neural networks?",
+    "options": [
+      "The step size for weight updates",
+      "Speed of training data transfer",
+      "Size of training data",
+      "Number of layers in the network"
+    ],
+    "answer": "The step size for weight updates"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which AI method is used to model sequential data?",
+    "options": [
+      "Recurrent Neural Networks (RNN)",
+      "Decision Trees",
+      "K-means",
+      "SVM"
+    ],
+    "answer": "Recurrent Neural Networks (RNN)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘dropout’ in deep learning?",
+    "options": [
+      "Regularization technique to prevent overfitting",
+      "Method to speed up training",
+      "Data cleaning step",
+      "Data augmentation"
+    ],
+    "answer": "Regularization technique to prevent overfitting"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘exploit’ in reinforcement learning?",
+    "options": [
+      "Using known information to maximize reward",
+      "Trying new actions",
+      "Data encryption",
+      "Data cleaning"
+    ],
+    "answer": "Using known information to maximize reward"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the difference between AI and Machine Learning?",
+    "options": [
+      "Machine Learning is a subset of AI",
+      "AI is a subset of Machine Learning",
+      "They are the same",
+      "AI is hardware, ML is software"
+    ],
+    "answer": "Machine Learning is a subset of AI"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which of the following is NOT a type of AI?",
+    "options": [
+      "Reactive Machines",
+      "Limited Memory",
+      "Human Intelligence",
+      "Theory of Mind"
+    ],
+    "answer": "Human Intelligence"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which is NOT a type of neural network?",
+    "options": [
+      "Decision Tree",
+      "Convolutional Neural Network",
+      "Recurrent Neural Network",
+      "Feedforward Neural Network"
+    ],
+    "answer": "Decision Tree"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What does the term ‘ensemble learning’ mean?",
+    "options": [
+      "Combining multiple models to improve performance",
+      "Using a single model",
+      "Storing data in batches",
+      "Encrypting multiple messages"
+    ],
+    "answer": "Combining multiple models to improve performance"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which algorithm is used in clustering?",
+    "options": [
+      "K-means",
+      "Linear Regression",
+      "Naive Bayes",
+      "SVM"
+    ],
+    "answer": "K-means"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the main task of a ‘classifier’?",
+    "options": [
+      "Assign labels to input data",
+      "Encrypt data",
+      "Sort data",
+      "Store data"
+    ],
+    "answer": "Assign labels to input data"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which of these is an AI application?",
+    "options": [
+      "Speech recognition",
+      "Spreadsheet software",
+      "Email client",
+      "Web browser"
+    ],
+    "answer": "Speech recognition"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What does ‘AI bias’ mean?",
+    "options": [
+      "Systematic errors due to biased training data",
+      "Machine learning speed",
+      "Data storage size",
+      "Network latency"
+    ],
+    "answer": "Systematic errors due to biased training data"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘transfer learning’ in AI?",
+    "options": [
+      "Using knowledge gained in one task to improve another task",
+      "Moving data between servers",
+      "Encrypting data",
+      "Cleaning data"
+    ],
+    "answer": "Using knowledge gained in one task to improve another task"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which method is used to handle missing data?",
+    "options": [
+      "Imputation",
+      "Encryption",
+      "Sorting",
+      "Clustering"
+    ],
+    "answer": "Imputation"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the output of regression analysis?",
+    "options": [
+      "Continuous values",
+      "Class labels",
+      "Text data",
+      "Images"
+    ],
+    "answer": "Continuous values"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is a ‘bias’ in machine learning?",
+    "options": [
+      "Error due to wrong assumptions in the model",
+      "Speed of the algorithm",
+      "Size of data",
+      "Storage format"
+    ],
+    "answer": "Error due to wrong assumptions in the model"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘variance’ in machine learning?",
+    "options": [
+      "Sensitivity of model to training data variations",
+      "Data size",
+      "Encryption strength",
+      "Network bandwidth"
+    ],
+    "answer": "Sensitivity of model to training data variations"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the role of ‘cross-validation’?",
+    "options": [
+      "To evaluate model performance",
+      "To encrypt data",
+      "To store data",
+      "To clean data"
+    ],
+    "answer": "To evaluate model performance"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the meaning of ‘deep learning’?",
+    "options": [
+      "Neural networks with multiple hidden layers",
+      "Shallow decision trees",
+      "Simple algorithms",
+      "Data mining"
+    ],
+    "answer": "Neural networks with multiple hidden layers"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which is a popular deep learning framework?",
+    "options": [
+      "TensorFlow",
+      "MySQL",
+      "Hadoop",
+      "Excel"
+    ],
+    "answer": "TensorFlow"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the function of ‘softmax’ in neural networks?",
+    "options": [
+      "To convert output scores into probabilities",
+      "To store data",
+      "To encrypt data",
+      "To clean data"
+    ],
+    "answer": "To convert output scores into probabilities"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘feature engineering’?",
+    "options": [
+      "Process of selecting and transforming variables for model input",
+      "Data storage",
+      "Data encryption",
+      "Data transfer"
+    ],
+    "answer": "Process of selecting and transforming variables for model input"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the purpose of ‘confusion matrix’?",
+    "options": [
+      "To summarize classification model performance",
+      "To encrypt data",
+      "To store data",
+      "To transfer data"
+    ],
+    "answer": "To summarize classification model performance"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is a ‘generative model’?",
+    "options": [
+      "Model that generates new data similar to training data",
+      "Model that classifies data",
+      "Model that stores data",
+      "Model that encrypts data"
+    ],
+    "answer": "Model that generates new data similar to training data"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the use of ‘dropout layer’ in deep neural networks?",
+    "options": [
+      "To prevent overfitting by randomly dropping neurons",
+      "To speed up training",
+      "To encrypt data",
+      "To store data"
+    ],
+    "answer": "To prevent overfitting by randomly dropping neurons"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which activation function is commonly used in deep networks?",
+    "options": [
+      "ReLU",
+      "Sigmoid",
+      "Tanh",
+      "Linear"
+    ],
+    "answer": "ReLU"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘gradient descent’?",
+    "options": [
+      "Optimization algorithm to minimize loss function",
+      "Data storage method",
+      "Encryption technique",
+      "Data transfer protocol"
+    ],
+    "answer": "Optimization algorithm to minimize loss function"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘epoch’ in training neural networks?",
+    "options": [
+      "One complete pass through the training dataset",
+      "One step of gradient update",
+      "Size of the training data",
+      "Number of layers"
+    ],
+    "answer": "One complete pass through the training dataset"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘batch size’ in training?",
+    "options": [
+      "Number of samples processed before model update",
+      "Total size of data",
+      "Number of layers",
+      "Number of epochs"
+    ],
+    "answer": "Number of samples processed before model update"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the use of ‘early stopping’?",
+    "options": [
+      "To prevent overfitting by stopping training early",
+      "To encrypt data",
+      "To store data",
+      "To transfer data"
+    ],
+    "answer": "To prevent overfitting by stopping training early"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the meaning of ‘hyperparameter tuning’?",
+    "options": [
+      "Optimizing parameters that are set before training",
+      "Training the model",
+      "Cleaning data",
+      "Encrypting data"
+    ],
+    "answer": "Optimizing parameters that are set before training"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which algorithm is used for dimensionality reduction?",
+    "options": [
+      "Principal Component Analysis (PCA)",
+      "Decision Tree",
+      "K-means",
+      "SVM"
+    ],
+    "answer": "Principal Component Analysis (PCA)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the main goal of ‘unsupervised learning’?",
+    "options": [
+      "To find hidden patterns in data",
+      "To classify data",
+      "To encrypt data",
+      "To store data"
+    ],
+    "answer": "To find hidden patterns in data"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is a ‘reinforcement learning agent’?",
+    "options": [
+      "Entity that learns by interacting with environment and receiving feedback",
+      "Database",
+      "Encryption software",
+      "Neural network layer"
+    ],
+    "answer": "Entity that learns by interacting with environment and receiving feedback"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which AI paradigm focuses on human-like reasoning?",
+    "options": [
+      "Symbolic AI",
+      "Neural Networks",
+      "Genetic Algorithms",
+      "Deep Learning"
+    ],
+    "answer": "Symbolic AI"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is a ‘Bayesian Network’?",
+    "options": [
+      "Probabilistic graphical model representing variables and dependencies",
+      "A sorting algorithm",
+      "Encryption method",
+      "Neural network"
+    ],
+    "answer": "Probabilistic graphical model representing variables and dependencies"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is the use of ‘tokenization’ in NLP?",
+    "options": [
+      "Breaking text into words or sentences",
+      "Encrypting text",
+      "Classifying text",
+      "Storing data"
+    ],
+    "answer": "Breaking text into words or sentences"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘stemming’ in NLP?",
+    "options": [
+      "Reducing words to their root form",
+      "Encrypting text",
+      "Tokenizing sentences",
+      "Parsing grammar"
+    ],
+    "answer": "Reducing words to their root form"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "Which AI technique is used in autonomous vehicles?",
+    "options": [
+      "Computer Vision",
+      "Data mining",
+      "Database indexing",
+      "Encryption"
+    ],
+    "answer": "Computer Vision"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Artificial Intelligence",
+    "question": "What is ‘chatbot’?",
+    "options": [
+      "AI program that simulates human conversation",
+      "Database software",
+      "Encryption software",
+      "Web server"
+    ],
+    "answer": "AI program that simulates human conversation"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "What is the main purpose of cloud computing?",
+    "options": [
+      "To increase internet speed",
+      "To enable users to store, manage, and process data regardless of location",
+      "To provide free software",
+      "To reduce the need for internet"
+    ],
+    "answer": "To enable users to store, manage, and process data regardless of location"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which of the following is not a type of cloud deployment model?",
+    "options": [
+      "Public Cloud",
+      "Private Cloud",
+      "Hybrid Cloud",
+      "Distributed Cloud"
+    ],
+    "answer": "Distributed Cloud"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which service model provides virtualized computing resources over the internet?",
+    "options": [
+      "SaaS",
+      "PaaS",
+      "IaaS",
+      "DaaS"
+    ],
+    "answer": "IaaS"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which cloud service model offers hardware and software tools over the internet?",
+    "options": [
+      "IaaS",
+      "PaaS",
+      "SaaS",
+      "NaaS"
+    ],
+    "answer": "PaaS"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "In cloud computing, what does SaaS stand for?",
+    "options": [
+      "Software and a Service",
+      "Software as a Service",
+      "Storage as a Service",
+      "Software as a System"
+    ],
+    "answer": "Software as a Service"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which of the following is an example of a SaaS application?",
+    "options": [
+      "Google Docs",
+      "Microsoft Azure",
+      "Amazon EC2",
+      "Docker"
+    ],
+    "answer": "Google Docs"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which of the following is a characteristic of cloud computing?",
+    "options": [
+      "Scalability",
+      "Limited access",
+      "High latency",
+      "Manual updates"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which cloud model combines public and private clouds?",
+    "options": [
+      "Community Cloud",
+      "Hybrid Cloud",
+      "Distributed Cloud",
+      "Shared Cloud"
+    ],
+    "answer": "Hybrid Cloud"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "What is virtualization in cloud computing?",
+    "options": [
+      "Creating physical servers",
+      "Creating virtual versions of resources",
+      "Eliminating the need for servers",
+      "Increasing hardware costs"
+    ],
+    "answer": "Creating virtual versions of resources"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which of the following is a benefit of cloud computing?",
+    "options": [
+      "Increased hardware costs",
+      "Limited scalability",
+      "On-demand self-service",
+      "Manual provisioning"
+    ],
+    "answer": "On-demand self-service"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which of the following is a cloud storage service?",
+    "options": [
+      "Dropbox",
+      "Oracle",
+      "SAP",
+      "Git"
+    ],
+    "answer": "Dropbox"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which of the following is not a cloud service provider?",
+    "options": [
+      "Amazon Web Services",
+      "Microsoft Azure",
+      "Google Cloud Platform",
+      "Mozilla Firefox"
+    ],
+    "answer": "Mozilla Firefox"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "What does PaaS provide to developers?",
+    "options": [
+      "Physical hardware",
+      "Platform to develop applications",
+      "End-user applications",
+      "Network infrastructure"
+    ],
+    "answer": "Platform to develop applications"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which of the following is an example of IaaS?",
+    "options": [
+      "Google App Engine",
+      "Amazon EC2",
+      "Salesforce",
+      "Microsoft Office 365"
+    ],
+    "answer": "Amazon EC2"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which of the following is a key characteristic of cloud computing?",
+    "options": [
+      "Fixed resource allocation",
+      "Rapid elasticity",
+      "Manual scaling",
+      "Limited network access"
+    ],
+    "answer": "Rapid elasticity"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which of the following is a disadvantage of cloud computing?",
+    "options": [
+      "Scalability",
+      "Data security concerns",
+      "Cost-effectiveness",
+      "Accessibility"
+    ],
+    "answer": "Data security concerns"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "What is the term for the ability to increase or decrease resources as needed in cloud",
+    "options": [
+      "Flexibility",
+      "Elasticity",
+      "Mobility",
+      "Portability"
+    ],
+    "answer": "Elasticity"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which of the following is a cloud computing platform by Microsoft?",
+    "options": [
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "IBM Cloud"
+    ],
+    "answer": "Azure"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "What does the term 'multi-tenancy' refer to in cloud computing?",
+    "options": [
+      "Multiple users sharing the same resources",
+      "Single user with multiple accounts",
+      "Multiple clouds for a single user",
+      "Single user with multiple devices"
+    ],
+    "answer": "Multiple users sharing the same resources"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which of the following is a cloud-based email service?",
+    "options": [
+      "Gmail",
+      "Outlook",
+      "Yahoo Mail",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which of the following is a cloud computing deployment model?",
+    "options": [
+      "Distributed Cloud",
+      "Community Cloud",
+      "Centralized Cloud",
+      "Local Cloud"
+    ],
+    "answer": "Community Cloud"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "What is the primary benefit of using cloud computing for businesses?",
+    "options": [
+      "Increased capital expenditure",
+      "Reduced scalability",
+      "Cost savings on infrastructure",
+      "Limited accessibility"
+    ],
+    "answer": "Cost savings on infrastructure"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "CLOUD COMPUTING",
+    "question": "Which of the following is a cloud computing service model?",
+    "options": [
+      "SaaS",
+      "PaaS",
+      "IaaS",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is an example of PaaS?",
+    "options": [
+      "Google App Engine",
+      "Amazon S3",
+      "Microsoft Office 365",
+      "Dropbox"
+    ],
+    "answer": "Google App Engine"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What does the term 'cloud bursting' refer to?",
+    "options": [
+      "Cloud failure",
+      "Sudden increase in cloud storage",
+      "Offloading workloads to the cloud during peak demand",
+      "Data loss in the cloud"
+    ],
+    "answer": "Offloading workloads to the cloud during peak demand"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is a cloud-based customer relationship management (CRM)",
+    "options": [
+      "Salesforce",
+      "SAP",
+      "Oracle",
+      "Microsoft Dynamics"
+    ],
+    "answer": "Salesforce"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the main advantage of using cloud storage?",
+    "options": [
+      "Limited access",
+      "High cost",
+      "Accessibility from anywhere",
+      "Manual backups"
+    ],
+    "answer": "Accessibility from anywhere"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is a cloud computing security concern?",
+    "options": [
+      "Data breaches",
+      "Scalability",
+      "Cost savings",
+      "Rapid deployment"
+    ],
+    "answer": "Data breaches"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the term for the process of moving data to the cloud?",
+    "options": [
+      "Cloudification",
+      "Cloud migration",
+      "Cloud transfer",
+      "Cloud shifting"
+    ],
+    "answer": "Cloud migration"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is a cloud computing service provider?",
+    "options": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the main purpose of using virtualization in cloud computing?",
+    "options": [
+      "Increase physical hardware",
+      "Reduce scalability",
+      "Efficient resource utilization",
+      "Manual provisioning"
+    ],
+    "answer": "Efficient resource utilization"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is a cloud-based development platform?",
+    "options": [
+      "Heroku",
+      "GitHub",
+      "Bitbucket",
+      "All of the above"
+    ],
+    "answer": "Heroku"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the term for the ability to access cloud services from any device?",
+    "options": [
+      "Portability",
+      "Mobility",
+      "Accessibility",
+      "Ubiquity"
+    ],
+    "answer": "Ubiquity"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is a benefit of cloud computing?",
+    "options": [
+      "Limited scalability",
+      "High capital expenditure",
+      "On-demand resource provisioning",
+      "Manual updates"
+    ],
+    "answer": "On-demand resource provisioning"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What does the term 'pay-as-you-go' mean in cloud computing?",
+    "options": [
+      "Fixed monthly charges",
+      "Pay only for the resources used",
+      "Free services",
+      "Annual subscription"
+    ],
+    "answer": "Pay only for the resources used"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is a cloud-based file storage service?",
+    "options": [
+      "Dropbox",
+      "Google Drive",
+      "OneDrive",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the term for the practice of using multiple cloud services?",
+    "options": [
+      "Multi-cloud",
+      "Hybrid cloud",
+      "Cloud chaining",
+      "Cloud stacking"
+    ],
+    "answer": "Multi-cloud"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is a cloud-based collaboration tool?",
+    "options": [
+      "Slack",
+      "Trello",
+      "Asana",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the main challenge of cloud computing?",
+    "options": [
+      "Scalability",
+      "Data security",
+      "Accessibility",
+      "Cost savings"
+    ],
+    "answer": "Data security"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is a cloud-based database service?",
+    "options": [
+      "Amazon RDS",
+      "Google Cloud SQL",
+      "Microsoft Azure SQL Database",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the term for the process of automatically increasing or decreasing resources in",
+    "options": [
+      "Auto-scaling",
+      "Manual scaling",
+      "Resource allocation",
+      "Load balancing"
+    ],
+    "answer": "Auto-scaling"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is a cloud-based backup service?",
+    "options": [
+      "Carbonite",
+      "Backblaze",
+      "CrashPlan",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the term for distributing workloads across multiple servers in cloud computing?",
+    "options": [
+      "Load balancing",
+      "Auto-scaling",
+      "Resource allocation",
+      "Virtualization"
+    ],
+    "answer": "Load balancing"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is a cloud-based content delivery network (CDN)?",
+    "options": [
+      "Cloudflare",
+      "Akamai",
+      "Amazon CloudFront",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the term for the ability to recover data after a failure in cloud computing?",
+    "options": [
+      "Data redundancy",
+      "Disaster recovery",
+      "Data replication",
+      "Backup"
+    ],
+    "answer": "Disaster recovery"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is a cloud-based monitoring tool?",
+    "options": [
+      "Amazon CloudWatch",
+      "Google Stackdriver",
+      "Microsoft Azure Monitor",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the term for the process of ensuring data is stored in multiple locations in cloud",
+    "options": [
+      "Data replication",
+      "Data redundancy",
+      "Data backup",
+      "Data distribution"
+    ],
+    "answer": "Data replication"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is a cloud-based identity and access management service?",
+    "options": [
+      "Okta",
+      "Azure Active Directory",
+      "AWS IAM",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the term for the practice of using private and public clouds together?",
+    "options": [
+      "Hybrid cloud",
+      "Multi-cloud",
+      "Community cloud",
+      "Distributed cloud"
+    ],
+    "answer": "Hybrid cloud"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is a cloud-based analytics service?",
+    "options": [
+      "Google BigQuery",
+      "Amazon Redshift",
+      "Microsoft Azure Synapse Analytics",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the purpose of a hypervisor in cloud computing?",
+    "options": [
+      "Monitor network traffic",
+      "Encrypt cloud data",
+      "Manage virtual machines",
+      "Store backup data"
+    ],
+    "answer": "Manage virtual machines"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which type of virtualization allows multiple operating systems to run on a single physical",
+    "options": [
+      "Application virtualization",
+      "Desktop virtualization",
+      "Server virtualization",
+      "Network virtualization"
+    ],
+    "answer": "Server virtualization"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is 'orchestration' in cloud computing?",
+    "options": [
+      "Synchronizing music files",
+      "Managing automation of tasks and configurations",
+      "Disabling virtual machines",
+      "Logging user activity"
+    ],
+    "answer": "Managing automation of tasks and configurations"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following helps to manage API gateways in cloud applications?",
+    "options": [
+      "AWS API Gateway",
+      "Azure API Management",
+      "Google Cloud Endpoints",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the key feature of cloud-native applications?",
+    "options": [
+      "Based on legacy systems",
+      "Developed for offline use",
+      "Designed to run in cloud environments",
+      "Require hardware dependencies"
+    ],
+    "answer": "Designed to run in cloud environments"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which term refers to a platform that combines hardware and software in cloud computing",
+    "options": [
+      "SaaS",
+      "HaaS",
+      "IaaS",
+      "BaaS"
+    ],
+    "answer": "IaaS"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which protocol is commonly used for secure data transfer in the cloud?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "SSH",
+      "HTTPS"
+    ],
+    "answer": "HTTPS"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What does the term 'latency' mean in cloud computing?",
+    "options": [
+      "Number of users",
+      "Delay before data transfer begins",
+      "Storage cost",
+      "Server speed"
+    ],
+    "answer": "Delay before data transfer begins"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which type of cloud service allows the user to only manage the data and applications?",
+    "options": [
+      "IaaS",
+      "PaaS",
+      "SaaS",
+      "DaaS"
+    ],
+    "answer": "PaaS"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the main function of a cloud broker?",
+    "options": [
+      "Host cloud infrastructure",
+      "Manage cloud billing",
+      "Intermediary between provider and consumer",
+      "Monitor user activity"
+    ],
+    "answer": "Intermediary between provider and consumer"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which technology is used to isolate different users in a cloud environment?",
+    "options": [
+      "Containers",
+      "Hypervisors",
+      "Firewalls",
+      "Switches"
+    ],
+    "answer": "Containers"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is containerization in cloud computing?",
+    "options": [
+      "Delivering services via mail",
+      "Packing files into folders",
+      "Running applications in isolated user-space environments",
+      "Storing virtual machines"
+    ],
+    "answer": "Running applications in isolated user-space environments"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is a container orchestration tool?",
+    "options": [
+      "Jenkins",
+      "Kubernetes",
+      "Git",
+      "Chef"
+    ],
+    "answer": "Kubernetes"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is edge computing in the context of cloud computing?",
+    "options": [
+      "Computing on mobile phones only",
+      "Performing computation near the data source",
+      "Sending all data to the central server",
+      "Blocking unauthorized access"
+    ],
+    "answer": "Performing computation near the data source"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of these is a platform for deploying and managing applications on Google Cloud?",
+    "options": [
+      "Cloud Shell",
+      "Google App Engine",
+      "Compute Engine",
+      "BigQuery"
+    ],
+    "answer": "Google App Engine"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which AWS service provides scalable cloud storage?",
+    "options": [
+      "EC2",
+      "Lambda",
+      "S3",
+      "RDS"
+    ],
+    "answer": "S3"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the function of AWS Lambda?",
+    "options": [
+      "Host websites",
+      "Provide serverless compute service",
+      "Store user data",
+      "Virtualize desktop"
+    ],
+    "answer": "Provide serverless compute service"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "In cloud computing, what is “autoscaling”?",
+    "options": [
+      "Manually adjusting resource usage",
+      "Automatically adjusting resources based on demand",
+      "Adding more users",
+      "Increasing billing manually"
+    ],
+    "answer": "Automatically adjusting resources based on demand"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What does SLAs stand for in cloud services?",
+    "options": [
+      "Security License Agreement",
+      "Standard Legal Agreement",
+      "Service Level Agreement",
+      "Software Licensing Agreement"
+    ],
+    "answer": "Service Level Agreement"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of these best describes \"serverless\" computing?",
+    "options": [
+      "No servers involved",
+      "Servers are controlled by the user",
+      "Cloud provider dynamically manages resources",
+      "Static content hosting only"
+    ],
+    "answer": "Cloud provider dynamically manages resources"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of these is NOT a serverless platform?",
+    "options": [
+      "AWS Lambda",
+      "Azure Functions",
+      "Google Cloud Functions",
+      "Amazon EC2"
+    ],
+    "answer": "Amazon EC2"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "In cloud security, what is Identity and Access Management (IAM) used for?",
+    "options": [
+      "Encrypting data",
+      "Managing user permissions and access",
+      "Backup",
+      "Load balancing"
+    ],
+    "answer": "Managing user permissions and access"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is used to monitor cloud application performance?",
+    "options": [
+      "Azure Monitor",
+      "CloudWatch",
+      "New Relic",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of these is an example of a NoSQL cloud database?",
+    "options": [
+      "Amazon DynamoDB",
+      "Google Cloud Spanner",
+      "MongoDB Atlas",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is cloud tenancy?",
+    "options": [
+      "Renting a physical house",
+      "Usage pattern of multiple tenants on shared cloud",
+      "Number of software licenses",
+      "A type of storage"
+    ],
+    "answer": "Usage pattern of multiple tenants on shared cloud"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is cloud interoperability?",
+    "options": [
+      "Different clouds not working together",
+      "Clouds are insecure",
+      "Ability of different cloud systems to work together",
+      "Incompatibility of APIs"
+    ],
+    "answer": "Ability of different cloud systems to work together"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is a benefit of container-based deployment in the cloud?",
+    "options": [
+      "Heavy OS overhead",
+      "Better isolation and portability",
+      "Requires large memory",
+      "Only works on Linux"
+    ],
+    "answer": "Better isolation and portability"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What does a CDN (Content Delivery Network) do?",
+    "options": [
+      "Protect against hackers",
+      "Increase latency",
+      "Deliver content efficiently worldwide",
+      "Generate cloud bills"
+    ],
+    "answer": "Deliver content efficiently worldwide"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the main use of cloud bursting?",
+    "options": [
+      "Backup files",
+      "Handle workload spikes by moving to public cloud",
+      "Prevent server hacking",
+      "Store logs"
+    ],
+    "answer": "Handle workload spikes by moving to public cloud"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What does DevOps aim to improve in cloud development?",
+    "options": [
+      "Gaming speed",
+      "Communication between development and operations",
+      "Web design",
+      "Database speed"
+    ],
+    "answer": "Communication between development and operations"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which tool is commonly used for Continuous Integration/Continuous Deployment",
+    "options": [
+      "Kubernetes",
+      "Docker",
+      "Jenkins",
+      "MySQL"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is BaaS in cloud computing?",
+    "options": [
+      "Backend as a Service",
+      "Boot as a Service",
+      "Binary as a Service",
+      "Backup as a Service"
+    ],
+    "answer": "Backend as a Service"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the goal of disaster recovery in the cloud?",
+    "options": [
+      "Data deletion",
+      "User blocking",
+      "Minimize downtime after failure",
+      "Cloud migration"
+    ],
+    "answer": "Minimize downtime after failure"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of the following is a benefit of using Infrastructure as Code (IaC)?",
+    "options": [
+      "Manual configuration",
+      "Hardware dependency",
+      "Automating cloud resource management",
+      "Frequent downtime"
+    ],
+    "answer": "Automating cloud resource management"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which language is commonly used in defining IaC templates?",
+    "options": [
+      "HTML",
+      "YAML",
+      "Python",
+      "PHP"
+    ],
+    "answer": "YAML"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is CloudTrail used for in AWS?",
+    "options": [
+      "Logging and auditing user activity",
+      "Creating VMs",
+      "Hosting files",
+      "Sending emails"
+    ],
+    "answer": "Logging and auditing user activity"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which Google Cloud service is used for serverless applications?",
+    "options": [
+      "App Engine",
+      "Compute Engine",
+      "Cloud Run",
+      "Both A and C"
+    ],
+    "answer": "Both A and C"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which term describes distributing cloud applications across multiple regions?",
+    "options": [
+      "Load balancing",
+      "Multi-region deployment",
+      "Cloud routing",
+      "Geo-sync"
+    ],
+    "answer": "Multi-region deployment"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of these is used for authentication in the cloud?",
+    "options": [
+      "OAuth",
+      "IAM",
+      "SAML",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is a drawback of vendor lock-in in cloud computing?",
+    "options": [
+      "Reduced speed",
+      "Dependency on a single provider",
+      "Better integration",
+      "More features"
+    ],
+    "answer": "Dependency on a single provider"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which AWS tool helps with cost management and budgeting?",
+    "options": [
+      "CloudWatch",
+      "Trusted Advisor",
+      "AWS Budgets",
+      "Lambda"
+    ],
+    "answer": "AWS Budgets"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is a “spot instance” in AWS?",
+    "options": [
+      "Free instance",
+      "Reserved always-on VM",
+      "Cheap compute instance with possibility of termination",
+      "Backup instance"
+    ],
+    "answer": "Cheap compute instance with possibility of termination"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which service would you use for container deployment in AWS?",
+    "options": [
+      "EC2",
+      "ECS",
+      "RDS",
+      "Route 53"
+    ],
+    "answer": "ECS"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which database service in cloud is best for big data processing?",
+    "options": [
+      "MySQL",
+      "Bigtable",
+      "MongoDB",
+      "Redis"
+    ],
+    "answer": "Bigtable"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What does DDoS protection do in cloud security?",
+    "options": [
+      "Encrypt data",
+      "Monitor billing",
+      "Defend against distributed attacks",
+      "Provide firewalls"
+    ],
+    "answer": "Defend against distributed attacks"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "Which of these is a real-time messaging service?",
+    "options": [
+      "AWS SNS",
+      "Google Pub/Sub",
+      "Azure Service Bus",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the full form of DRaaS?",
+    "options": [
+      "Data Recovery as a Service",
+      "Disaster Recovery as a Service",
+      "Database Reporting as a Service",
+      "Distributed Recovery as a System"
+    ],
+    "answer": "Disaster Recovery as a Service"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the advantage of microservices architecture in the cloud?",
+    "options": [
+      "All functions in one service",
+      "Better scalability and isolation",
+      "More errors",
+      "Slower deployment"
+    ],
+    "answer": "Better scalability and isolation"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the use of cloud load balancer?",
+    "options": [
+      "Storing load data",
+      "Redirecting traffic across multiple servers",
+      "Reducing storage space",
+      "Increasing server weight"
+    ],
+    "answer": "Redirecting traffic across multiple servers"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Cloud Computing",
+    "question": "What is the goal of green cloud computing?",
+    "options": [
+      "Increasing servers",
+      "Reducing environmental impact",
+      "Using only green screens",
+      "Buying more hardware"
+    ],
+    "answer": "Reducing environmental impact"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the time complexity to access an element in an array by index?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "answer": "O(1)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following is the correct way to declare an array in C?",
+    "options": [
+      "int arr(10);",
+      "array int arr[10];",
+      "int arr[10];",
+      "declare int arr[10];"
+    ],
+    "answer": "int arr[10];"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which function is used to find the length of a string in C?",
+    "options": [
+      "strlen()",
+      "size()",
+      "length()",
+      "strlength()"
+    ],
+    "answer": "strlen()"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3 ",
+    "subject": "Data Structures",
+    "question": "What data structure follows LIFO order?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Array",
+      "Linked List"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3 ",
+    "subject": "Data Structures",
+    "question": "Which operation removes the top element of a stack?",
+    "options": [
+      "Push",
+      "Pop",
+      "Enqueue",
+      "Delete"
+    ],
+    "answer": "Pop"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3 ",
+    "subject": "Data Structures",
+    "question": "What is the postfix of the expression: (A + B) * C?",
+    "options": [
+      "A B + C *",
+      "A + B * C",
+      "C A B + *",
+      "* + A B C"
+    ],
+    "answer": "A B + C *"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "A queue follows which order?",
+    "options": [
+      "LIFO",
+      "FILO",
+      "FIFO",
+      "None"
+    ],
+    "answer": "FIFO"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following is not a type of queue?",
+    "options": [
+      "Circular queue",
+      "Priority queue",
+      "Binary queue",
+      "Deque"
+    ],
+    "answer": "Binary queue"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which operation is used to remove an element from a queue?",
+    "options": [
+      "Enqueue",
+      "Delete",
+      "Pop",
+      "Dequeue"
+    ],
+    "answer": "Dequeue"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Time complexity to insert a node at the beginning of a singly linked list is:",
+    "options": [
+      "O(n)",
+      "O(1)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "answer": "O(1)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the last pointer in a singly linked list?",
+    "options": [
+      "NULL",
+      "0",
+      "-1",
+      "tail"
+    ],
+    "answer": "NULL"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "In a doubly linked list, each node contains:",
+    "options": [
+      "Data only",
+      "Data and one pointer",
+      "Two pointers",
+      "No pointers"
+    ],
+    "answer": "Two pointers"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following is not a linear data structure?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Graph",
+      "Linked List"
+    ],
+    "answer": "Graph"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the maximum number of children a binary tree node can have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "A full binary tree with 3 non-leaf nodes contains how many leaf nodes?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which traversal gives the nodes of a BST in sorted order?",
+    "options": [
+      "Preorder",
+      "Inorder",
+      "Postorder",
+      "Level order"
+    ],
+    "answer": "Inorder"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "In stack, if the stack is full and another push operation is performed, it causes:",
+    "options": [
+      "Stack underflow",
+      "Stack overflow",
+      "Memory error",
+      "Segmentation fault"
+    ],
+    "answer": "Stack overflow"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which data structure is ideal for implementing recursion?",
+    "options": [
+      "Queue",
+      "Array",
+      "Stack",
+      "Linked list"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which algorithm is used to find shortest path in a graph?",
+    "options": [
+      "Prim’s Algorithm",
+      "DFS",
+      "Dijkstra’s Algorithm",
+      "Kruskal’s Algorithm"
+    ],
+    "answer": "Dijkstra’s Algorithm"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "The number of edges in a complete graph with n vertices is:",
+    "options": [
+      "n",
+      "n(n-1)",
+      "n(n+1)/2",
+      "n(n-1)/2"
+    ],
+    "answer": "n(n-1)/2"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which sorting algorithm is best for small datasets?",
+    "options": [
+      "Bubble Sort",
+      "Quick Sort",
+      "Merge Sort",
+      "Insertion Sort"
+    ],
+    "answer": "Insertion Sort"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the worst-case time complexity of quicksort?",
+    "options": [
+      "O(n log n)",
+      "O(n^2)",
+      "O(n)",
+      "O(log n)"
+    ],
+    "answer": "O(n^2)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which data structure uses priority for processing?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Priority Queue",
+      "Linked List"
+    ],
+    "answer": "Priority Queue"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which traversal is used in depth-first search of a tree?",
+    "options": [
+      "Inorder",
+      "Preorder",
+      "Postorder",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What does 'NULL' represent in data structures?",
+    "options": [
+      "A variable",
+      "A garbage value",
+      "A memory address",
+      "No value or end of list"
+    ],
+    "answer": "No value or end of list"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following is a linear data structure?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Linked List",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the time complexity of accessing an element in an array by index?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n²)"
+    ],
+    "answer": "O(1)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "In a doubly linked list, each node contains how many pointers?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following is not a type of queue?",
+    "options": [
+      "Circular Queue",
+      "Priority Queue",
+      "Double-ended Queue",
+      "Binary Queue"
+    ],
+    "answer": "Binary Queue"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What does the 'peek' operation do in a stack?",
+    "options": [
+      "Removes the top element",
+      "Adds an element to the top",
+      "Returns the top element without removing it",
+      "Clears the stack"
+    ],
+    "answer": "Returns the top element without removing it"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which traversal method is used in a depth-first search of a graph?",
+    "options": [
+      "Inorder",
+      "Preorder",
+      "Postorder",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the primary disadvantage of using an array?",
+    "options": [
+      "Fixed size",
+      "Slow access time",
+      "High memory usage",
+      "Complex implementation"
+    ],
+    "answer": "Fixed size"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "In a binary tree, the maximum number of nodes at level 'l' is?",
+    "options": [
+      "2^l",
+      "2^(l+1) - 1",
+      "2^(l-1)",
+      "2^l - 1"
+    ],
+    "answer": "2^l"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following is a non-linear data structure?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Tree",
+      "Stack"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the worst-case time complexity of quicksort?",
+    "options": [
+      "O(n log n)",
+      "O(n²)",
+      "O(n)",
+      "O(log n)"
+    ],
+    "answer": "O(n²)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which data structure uses LIFO (Last In First Out) principle?",
+    "options": [
+      "Queue",
+      "Array",
+      "Stack",
+      "Linked List"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which sorting algorithm has the best average case performance?",
+    "options": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Quick Sort",
+      "Selection Sort"
+    ],
+    "answer": "Quick Sort"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the maximum number of children a binary tree node can have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "In which data structure elements can be inserted or deleted from both ends?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Deque",
+      "Tree"
+    ],
+    "answer": "Deque"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the main advantage of a linked list over an array?",
+    "options": [
+      "Random access",
+      "Fixed size",
+      "Dynamic size",
+      "Better cache locality"
+    ],
+    "answer": "Dynamic size"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of these is a divide and conquer algorithm?",
+    "options": [
+      "Selection Sort",
+      "Bubble Sort",
+      "Merge Sort",
+      "Insertion Sort"
+    ],
+    "answer": "Merge Sort"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is a leaf node in a tree?",
+    "options": [
+      "A node with one child",
+      "A node with two children",
+      "A node with no children",
+      "A node with a parent"
+    ],
+    "answer": "A node with no children"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which traversal visits all the nodes of a tree level by level?",
+    "options": [
+      "Inorder",
+      "Preorder",
+      "Postorder",
+      "Level Order"
+    ],
+    "answer": "Level Order"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which data structure is used for implementing recursion?",
+    "options": [
+      "Queue",
+      "Array",
+      "Stack",
+      "Linked List"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the time complexity of inserting an element at the beginning of a singly linked list?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(1)",
+      "O(n²)"
+    ],
+    "answer": "O(1)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following data structures is used in breadth-first search (BFS) of a graph?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Heap"
+    ],
+    "answer": "Queue"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following is not a stable sorting algorithm?",
+    "options": [
+      "Merge Sort",
+      "Bubble Sort",
+      "Quick Sort",
+      "Insertion Sort"
+    ],
+    "answer": "Quick Sort"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "A circular queue is better than a linear queue because it:",
+    "options": [
+      "Is faster",
+      "Uses memory more efficiently",
+      "Is easier to implement",
+      "Has no overflow condition"
+    ],
+    "answer": "Uses memory more efficiently"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which operation is performed to insert an element in a queue?",
+    "options": [
+      "Pop",
+      "Push",
+      "Enqueue",
+      "Dequeue"
+    ],
+    "answer": "Enqueue"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following is the best case time complexity of Bubble Sort?",
+    "options": [
+      "O(n²)",
+      "O(n log n)",
+      "O(n)",
+      "O(log n)"
+    ],
+    "answer": "O(n)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following is used to find the shortest path in a graph?",
+    "options": [
+      "DFS",
+      "BFS",
+      "Dijkstra’s Algorithm",
+      "Prim’s Algorithm"
+    ],
+    "answer": "Dijkstra’s Algorithm"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "A binary search tree is a binary tree that is:",
+    "options": [
+      "Completely filled",
+      "Height-balanced",
+      "Ordered with left < root < right",
+      "A complete tree"
+    ],
+    "answer": "Ordered with left < root < right"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following operations is not possible in a singly linked list?",
+    "options": [
+      "Traversal",
+      "Insertion",
+      "Backward traversal",
+      "Deletion"
+    ],
+    "answer": "Backward traversal"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following is not a characteristic of a heap?",
+    "options": [
+      "It is a complete binary tree",
+      "It satisfies the heap property",
+      "The left child is always smaller than the right",
+      "Used in priority queues"
+    ],
+    "answer": "The left child is always smaller than the right"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which data structure is ideal to implement undo operations in editors?",
+    "options": [
+      "Queue",
+      "Array",
+      "Stack",
+      "Tree"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "In a max-heap, the value of each node is:",
+    "options": [
+      "Greater than or equal to its children",
+      "Less than or equal to its children",
+      "Equal to its children",
+      "None of the above"
+    ],
+    "answer": "Greater than or equal to its children"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the space complexity of a linked list with n nodes?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n²)"
+    ],
+    "answer": "O(n)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "In which data structure are elements added and removed in FIFO order?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Linked List",
+      "Tree"
+    ],
+    "answer": "Queue"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following is NOT a graph traversal method?",
+    "options": [
+      "DFS",
+      "BFS",
+      "Dijkstra",
+      "Inorder"
+    ],
+    "answer": "Inorder"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What does the 'pop' operation do in a stack?",
+    "options": [
+      "Adds an element to the top",
+      "Removes the top element",
+      "Returns the bottom element",
+      "Clears the stack"
+    ],
+    "answer": "Removes the top element"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which data structure can be used to implement a recursive algorithm?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Graph"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which sorting algorithm divides the list into two halves and recursively sorts them?",
+    "options": [
+      "Quick Sort",
+      "Merge Sort",
+      "Bubble Sort",
+      "Selection Sort"
+    ],
+    "answer": "Merge Sort"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "In which case is Quick Sort most inefficient?",
+    "options": [
+      "When the pivot is the median",
+      "When the pivot is the smallest or largest element",
+      "When the array is random",
+      "When the array is sorted in descending order"
+    ],
+    "answer": "When the pivot is the smallest or largest element"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the key difference between a stack and a queue?",
+    "options": [
+      "Stack is FIFO, Queue is LIFO",
+      "Stack is LIFO, Queue is FIFO",
+      "Both are FIFO",
+      "Both are LIFO"
+    ],
+    "answer": "Stack is LIFO, Queue is FIFO"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following is used for searching an element in a sorted array?",
+    "options": [
+      "Linear Search",
+      "Binary Search",
+      "DFS",
+      "BFS"
+    ],
+    "answer": "Binary Search"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the height of a complete binary tree with n nodes?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "answer": "O(log n)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following is not a property of a binary search tree?",
+    "options": [
+      "Left child < root < right child",
+      "No duplicate nodes",
+      "The left subtree contains smaller values",
+      "Inorder traversal produces sorted order"
+    ],
+    "answer": "No duplicate nodes"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "In hashing, what is a collision?",
+    "options": [
+      "Two keys map to the same index",
+      "A key is missing",
+      "Hash function fails",
+      "Table is full"
+    ],
+    "answer": "Two keys map to the same index"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following is a technique to resolve collisions in hashing?",
+    "options": [
+      "Chaining",
+      "Open addressing",
+      "Both A and B",
+      "None of the above"
+    ],
+    "answer": "Both A and B"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which data structure is used to implement priority queues?",
+    "options": [
+      "Stack",
+      "Heap",
+      "Queue",
+      "Array"
+    ],
+    "answer": "Heap"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What does the term ‘amortized time complexity’ mean?",
+    "options": [
+      "Worst case time for a single operation",
+      "Average time over a sequence of operations",
+      "Best case time complexity",
+      "Time complexity for parallel processing"
+    ],
+    "answer": "Average time over a sequence of operations"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the primary use of a trie data structure?",
+    "options": [
+      "Sorting numbers",
+      "Searching strings or prefixes efficiently",
+      "Implementing graphs",
+      "Implementing stacks"
+    ],
+    "answer": "Searching strings or prefixes efficiently"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "In a graph, a cycle is:",
+    "options": [
+      "A path that starts and ends at the same vertex",
+      "A path with all distinct vertices",
+      "A path with no edges",
+      "A disconnected vertex"
+    ],
+    "answer": "A path that starts and ends at the same vertex"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which data structure is best for implementing undo operations?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Tree"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of these is a stable sorting algorithm?",
+    "options": [
+      "Quick Sort",
+      "Heap Sort",
+      "Merge Sort",
+      "Selection Sort"
+    ],
+    "answer": "Merge Sort"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which data structure uses the FIFO principle?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "answer": "Queue"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the time complexity of searching in a balanced binary search tree?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(1)",
+      "O(n²)"
+    ],
+    "answer": "O(log n)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which algorithm is used for finding the minimum spanning tree in a graph?",
+    "options": [
+      "Dijkstra’s Algorithm",
+      "Floyd-Warshall Algorithm",
+      "Prim’s Algorithm",
+      "Bellman-Ford Algorithm"
+    ],
+    "answer": "Prim’s Algorithm"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which data structure is best suited for implementing recursive function calls?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Array",
+      "Linked List"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which traversal method uses a queue?",
+    "options": [
+      "Preorder",
+      "Inorder",
+      "Postorder",
+      "Level Order"
+    ],
+    "answer": "Level Order"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "In an adjacency matrix representation of a graph with n vertices, the space complexity is:",
+    "options": [
+      "O(n)",
+      "O(n + e) where e is edges",
+      "O(n²)",
+      "O(e)"
+    ],
+    "answer": "O(n²)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which data structure is used to implement a priority queue?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Heap",
+      "Stack"
+    ],
+    "answer": "Heap"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which traversal of a binary search tree produces nodes in non-decreasing order?",
+    "options": [
+      "Preorder",
+      "Inorder",
+      "Postorder",
+      "Level Order"
+    ],
+    "answer": "Inorder"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "The maximum number of nodes in a binary tree of height h is:",
+    "options": [
+      "2^h - 1",
+      "2^(h+1) - 1",
+      "h^2",
+      "h + 1"
+    ],
+    "answer": "2^(h+1) - 1"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What does a ‘full binary tree’ mean?",
+    "options": [
+      "Every node has 0 or 2 children",
+      "Every node has only one child",
+      "All leaves are at the same level",
+      "The tree is balanced"
+    ],
+    "answer": "Every node has 0 or 2 children"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which data structure is best for implementing graph traversal using DFS?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Array",
+      "Linked List"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which sorting algorithm is based on the ‘divide and conquer’ technique?",
+    "options": [
+      "Bubble Sort",
+      "Quick Sort",
+      "Selection Sort",
+      "Insertion Sort"
+    ],
+    "answer": "Quick Sort"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "In a linked list, insertion at the end requires:",
+    "options": [
+      "O(1) if tail pointer is maintained",
+      "O(n) always",
+      "O(log n)",
+      "O(n²)"
+    ],
+    "answer": "O(1) if tail pointer is maintained"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the worst-case time complexity of binary search?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "answer": "O(log n)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following data structures is non-linear?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Graph"
+    ],
+    "answer": "Graph"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of these is not a type of linked list?",
+    "options": [
+      "Singly Linked List",
+      "Doubly Linked List",
+      "Circular Linked List",
+      "Linear Linked List"
+    ],
+    "answer": "Linear Linked List"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "In a graph, the degree of a vertex is:",
+    "options": [
+      "Number of edges incident on it",
+      "Number of vertices connected to it",
+      "Number of nodes in the graph",
+      "Length of the path from root to that vertex"
+    ],
+    "answer": "Number of edges incident on it"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the time complexity to delete a node from a doubly linked list?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "answer": "O(1)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which data structure is used in Breadth First Search of a graph?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Heap"
+    ],
+    "answer": "Queue"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which traversal method is also known as Depth First Search (DFS) in trees?",
+    "options": [
+      "Level Order",
+      "Inorder",
+      "Preorder",
+      "Postorder"
+    ],
+    "answer": "Preorder"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "The postfix expression equivalent to the infix expression (A + B) * C is:",
+    "options": [
+      "AB+C*",
+      "ABC*+",
+      "A+BC*",
+      "AB*+C"
+    ],
+    "answer": "AB+C*"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which of the following is not a linear data structure?",
+    "options": [
+      "Array",
+      "Stack",
+      "Queue",
+      "Tree"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is the primary advantage of an adjacency list over an adjacency matrix?",
+    "options": [
+      "Faster traversal",
+      "Uses less memory for sparse graphs",
+      "Easier to implement",
+      "Faster edge lookup"
+    ],
+    "answer": "Uses less memory for sparse graphs"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "What is a sentinel node in linked lists?",
+    "options": [
+      "A node containing the last element",
+      "A dummy node used to simplify boundary conditions",
+      "A node with special data",
+      "The head node"
+    ],
+    "answer": "A dummy node used to simplify boundary conditions"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Data Structures",
+    "question": "Which algorithm is used for finding shortest paths in graphs with negative weights?",
+    "options": [
+      "Dijkstra’s Algorithm",
+      "Bellman-Ford Algorithm",
+      "Prim’s Algorithm",
+      "Floyd Warshall Algorithm"
+    ],
+    "answer": "Bellman-Ford Algorithm"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is the correct way to declare a class in C++?",
+    "options": [
+      "class MyClass {};",
+      "class MyClass;",
+      "MyClass class {};",
+      "class = MyClass {};"
+    ],
+    "answer": "class MyClass {};"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the default access specifier for members of a class?",
+    "options": [
+      "public",
+      "private",
+      "protected",
+      "none"
+    ],
+    "answer": "private"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which feature of OOP allows one class to inherit the properties of another?",
+    "options": [
+      "Polymorphism",
+      "Encapsulation",
+      "Inheritance",
+      "Abstraction"
+    ],
+    "answer": "Inheritance"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What does encapsulation mean in C++?",
+    "options": [
+      "Binding data and functions together",
+      "Deriving new classes from base classes",
+      "Hiding data from outside",
+      "Using virtual functions"
+    ],
+    "answer": "Binding data and functions together"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is used to define a constructor in C++?",
+    "options": [
+      "Same name as the class, no return type",
+      "Any name with void return type",
+      "Name with return type as class name",
+      "Same name as class with void return type"
+    ],
+    "answer": "Same name as the class, no return type"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the purpose of a destructor?",
+    "options": [
+      "To initialize objects",
+      "To free resources before object is destroyed",
+      "To copy objects",
+      "To overload operators"
+    ],
+    "answer": "To free resources before object is destroyed"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What keyword is used to inherit a class publicly?",
+    "options": [
+      "inherits",
+      "public",
+      "extends",
+      ": public"
+    ],
+    "answer": ": public"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is polymorphism in C++?",
+    "options": [
+      "Single function with different forms",
+      "Hiding data members",
+      "Deriving new classes",
+      "None"
+    ],
+    "answer": "Single function with different forms"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which type of polymorphism is resolved at compile time?",
+    "options": [
+      "Runtime polymorphism",
+      "Compile-time polymorphism",
+      "Dynamic binding",
+      "Virtual functions"
+    ],
+    "answer": "Compile-time polymorphism"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "How is function overloading achieved in C++?",
+    "options": [
+      "Using different function names",
+      "Same function name, different parameters",
+      "Different return types only",
+      "Using pointers"
+    ],
+    "answer": "Same function name, different parameters"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is operator overloading?",
+    "options": [
+      "Overloading arithmetic operators only",
+      "Defining new operators",
+      "Using same operator for different types",
+      "None"
+    ],
+    "answer": "Using same operator for different types"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "How do you declare a pure virtual function?",
+    "options": [
+      "virtual void fun() = 0;",
+      "void virtual fun() = 0;",
+      "virtual void fun() {}",
+      "void fun() = 0;"
+    ],
+    "answer": "virtual void fun() = 0;"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is an abstract class?",
+    "options": [
+      "A class that cannot be instantiated",
+      "Class with no members",
+      "Class with only public members",
+      "Class that can only be inherited privately"
+    ],
+    "answer": "A class that cannot be instantiated"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What does the this pointer represent in a class?",
+    "options": [
+      "Pointer to current object",
+      "Pointer to base class",
+      "Pointer to functions",
+      "None"
+    ],
+    "answer": "Pointer to current object"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "How can you prevent a class from being inherited?",
+    "options": [
+      "Make all members private",
+      "Use final keyword after class name (C++11 onwards)",
+      "Use static keyword",
+      "Use virtual destructor"
+    ],
+    "answer": "Use final keyword after class name (C++11 onwards)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is the correct syntax for friend function declaration?",
+    "options": [
+      "friend void fun();",
+      "void friend fun();",
+      "friend fun void();",
+      "friend class fun;"
+    ],
+    "answer": "friend void fun();"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What does the virtual keyword do in a base class function?",
+    "options": [
+      "Makes function inline",
+      "Supports runtime polymorphism",
+      "Prevents function overriding",
+      "None"
+    ],
+    "answer": "Supports runtime polymorphism"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the size of an empty class in C++?",
+    "options": [
+      "0 bytes",
+      "1 byte",
+      "4 bytes",
+      "Depends on compiler"
+    ],
+    "answer": "1 byte"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the output of this code snippet?",
+    "options": [
+      "Test",
+      "Compilation error",
+      "Runtime error",
+      "None"
+    ],
+    "answer": "Test"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which access specifier allows derived classes to access base class members but prevents",
+    "options": [
+      "public",
+      "private",
+      "protected",
+      "None"
+    ],
+    "answer": "protected"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following can access private members of a class?",
+    "options": [
+      "Objects of the class",
+      "Member functions of the class",
+      "Derived classes",
+      "Outside functions"
+    ],
+    "answer": "Member functions of the class"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What will happen if you do not define a constructor in a class?",
+    "options": [
+      "Error",
+      "Default constructor is created",
+      "Object cannot be created",
+      "None"
+    ],
+    "answer": "Default constructor is created"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is constructor overloading?",
+    "options": [
+      "Multiple constructors with different names",
+      "Constructors with different return types",
+      "Multiple constructors with different parameters",
+      "None"
+    ],
+    "answer": "Multiple constructors with different parameters"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "How can we create an object dynamically?",
+    "options": [
+      "ClassName obj;",
+      "Using new keyword",
+      "Using malloc()",
+      "None"
+    ],
+    "answer": "Using new keyword"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which operator is used to access members of an object through a pointer?",
+    "options": [
+      ".",
+      "->",
+      "*",
+      "&"
+    ],
+    "answer": "->"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What does the keyword static mean when applied to a member variable?",
+    "options": [
+      "Variable is unique per object",
+      "Variable is shared among all objects",
+      "Variable is constant",
+      "None"
+    ],
+    "answer": "Variable is shared among all objects"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What will be the output of this code?",
+    "options": [
+      "AB",
+      "BA",
+      "A",
+      "B"
+    ],
+    "answer": "AB"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "How do you access the base class constructor from the derived class?",
+    "options": [
+      "Using base::base()",
+      "Using base()",
+      "Using initialization list",
+      "None"
+    ],
+    "answer": "Using initialization list"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is true about virtual functions?",
+    "options": [
+      "They are resolved at compile time",
+      "They cannot be overridden",
+      "They enable runtime polymorphism",
+      "They must be private"
+    ],
+    "answer": "They enable runtime polymorphism"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is a virtual destructor?",
+    "options": [
+      "Destructor declared with virtual keyword to ensure proper cleanup in inheritance",
+      "Destructor that cannot be overridden",
+      "Destructor for abstract classes only",
+      "None"
+    ],
+    "answer": "Destructor declared with virtual keyword to ensure proper cleanup in inheritance"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What happens if a base class pointer points to a derived class object and a virtual function is",
+    "options": [
+      "Base class function is called",
+      "Derived class function is called",
+      "Compiler error",
+      "None"
+    ],
+    "answer": "Derived class function is called"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following keywords is used to prevent function overriding in derived classes?",
+    "options": [
+      "override",
+      "final",
+      "virtual",
+      "none"
+    ],
+    "answer": "final"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "How do you define a template function?",
+    "options": [
+      "template <typename T>",
+      "function <template T>",
+      "template function<T>",
+      "None"
+    ],
+    "answer": "template <typename T>"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the meaning of friend class?",
+    "options": [
+      "A class whose functions can access private members of another class",
+      "A class inherited from another class",
+      "Class with only public members",
+      "None"
+    ],
+    "answer": "A class whose functions can access private members of another class"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "How can you prevent copying of objects?",
+    "options": [
+      "Delete copy constructor and assignment operator",
+      "Make class abstract",
+      "Use private destructor",
+      "None"
+    ],
+    "answer": "Delete copy constructor and assignment operator"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is correct about multiple inheritance?",
+    "options": [
+      "A class can inherit from multiple base classes",
+      "Not allowed in C++",
+      "Causes ambiguity which cannot be resolved",
+      "None"
+    ],
+    "answer": "A class can inherit from multiple base classes"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the Diamond Problem in C++?",
+    "options": [
+      "Ambiguity caused by multiple inheritance",
+      "Problem in class declaration syntax",
+      "Compilation error in templates",
+      "None"
+    ],
+    "answer": "Ambiguity caused by multiple inheritance"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "How is the Diamond Problem solved?",
+    "options": [
+      "Using virtual inheritance",
+      "Avoiding inheritance",
+      "Using friend functions",
+      "None"
+    ],
+    "answer": "Using virtual inheritance"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is NOT a principle of OOP?",
+    "options": [
+      "Encapsulation",
+      "Polymorphism",
+      "Compilation",
+      "Inheritance"
+    ],
+    "answer": "Compilation"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is function overriding?",
+    "options": [
+      "Defining a new function in derived class with the same signature as base class",
+      "Changing function name in derived class",
+      "Using same function with different parameters",
+      "None"
+    ],
+    "answer": "Defining a new function in derived class with the same signature as base class"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following allows you to specify default arguments in C++?",
+    "options": [
+      "Constructors only",
+      "Any function parameters",
+      "Member variables",
+      "None"
+    ],
+    "answer": "Any function parameters"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What will happen if a base class destructor is not virtual?",
+    "options": [
+      "Derived class destructor will not be called if deleted through base pointer",
+      "Compilation error",
+      "Derived class destructor always called",
+      "None"
+    ],
+    "answer": "Derived class destructor will not be called if deleted through base pointer"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which operator is used to allocate memory dynamically?",
+    "options": [
+      "malloc",
+      "new",
+      "alloc",
+      "dynamic"
+    ],
+    "answer": "new"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the keyword to access base class members explicitly if hidden by derived class",
+    "options": [
+      "super",
+      "this",
+      "base",
+      "scope resolution operator (::)"
+    ],
+    "answer": "scope resolution operator (::)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is true about private inheritance?",
+    "options": [
+      "Public and protected members of base become private in derived",
+      "Derived class cannot access base class members",
+      "Base class members become public",
+      "None"
+    ],
+    "answer": "Public and protected members of base become private in derived"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is the correct way to declare a copy constructor?",
+    "options": [
+      "ClassName(ClassName &obj);",
+      "ClassName(const ClassName &obj);",
+      "ClassName(ClassName obj);",
+      "ClassName(ClassName *obj);"
+    ],
+    "answer": "ClassName(const ClassName &obj);"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What does the const keyword mean when used with member functions?",
+    "options": [
+      "Function cannot modify member variables",
+      "Function is constant",
+      "Function cannot be called outside class",
+      "None"
+    ],
+    "answer": "Function cannot modify member variables"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is the scope resolution operator?",
+    "options": [
+      "::",
+      ".",
+      "->",
+      ":"
+    ],
+    "answer": "::"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the output of this code?",
+    "options": [
+      "Base",
+      "Derived",
+      "Compilation error",
+      "Runtime error"
+    ],
+    "answer": "Derived"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What happens if you do not override a virtual function in the derived class?",
+    "options": [
+      "Base class version is called",
+      "Compilation error",
+      "Derived class function is called anyway",
+      "None"
+    ],
+    "answer": "Base class version is called"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is NOT a valid constructor type?",
+    "options": [
+      "Default constructor",
+      "Parameterized constructor",
+      "Copy constructor",
+      "Virtual constructor"
+    ],
+    "answer": "Virtual constructor"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the use of the mutable keyword in C++?",
+    "options": [
+      "Allows modification of member even in const function",
+      "Makes member variable constant",
+      "Makes variable static",
+      "None"
+    ],
+    "answer": "Allows modification of member even in const function"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "How is data hiding achieved in C++?",
+    "options": [
+      "Using public members",
+      "Using private and protected access specifiers",
+      "Using friend functions",
+      "None"
+    ],
+    "answer": "Using private and protected access specifiers"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is true about friend functions?",
+    "options": [
+      "They are members of the class",
+      "They can access private and protected members",
+      "They are called using object of class",
+      "None"
+    ],
+    "answer": "They can access private and protected members"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is true for virtual functions?",
+    "options": [
+      "They cannot be static",
+      "They can be private",
+      "They are declared with the keyword virtual",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following cannot be virtual?",
+    "options": [
+      "Destructor",
+      "Static member functions",
+      "Regular member functions",
+      "Virtual functions"
+    ],
+    "answer": "Static member functions"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the significance of the explicit keyword in constructors?",
+    "options": [
+      "Prevents implicit conversions",
+      "Allows only implicit conversions",
+      "Makes constructor private",
+      "None"
+    ],
+    "answer": "Prevents implicit conversions"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "How are exceptions handled in C++?",
+    "options": [
+      "Using try, catch, and throw blocks",
+      "Using if-else only",
+      "Using switch statements",
+      "None"
+    ],
+    "answer": "Using try, catch, and throw blocks"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the base class of all classes in C++?",
+    "options": [
+      "Object",
+      "Base",
+      "There is no common base class",
+      "Root"
+    ],
+    "answer": "There is no common base class"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following operators can be overloaded?",
+    "options": [
+      ". (dot) operator",
+      "?: (ternary) operator",
+      "= (assignment) operator",
+      ":: (scope resolution) operator"
+    ],
+    "answer": "= (assignment) operator"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What does RAII stand for in C++?",
+    "options": [
+      "Resource Acquisition Is Initialization",
+      "Resource Allocation Is Initialization",
+      "Resource Access In Instance",
+      "None"
+    ],
+    "answer": "Resource Acquisition Is Initialization"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which feature of C++ supports the concept of abstract data types?",
+    "options": [
+      "Classes and objects",
+      "Pointers",
+      "Templates",
+      "References"
+    ],
+    "answer": "Classes and objects"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is true for destructors?",
+    "options": [
+      "They can be overloaded",
+      "They do not take arguments",
+      "They can be called explicitly",
+      "Both B and C"
+    ],
+    "answer": "Both B and C"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the effect of declaring a function as inline?",
+    "options": [
+      "Forces compiler to insert function code inline",
+      "Prevents function call overhead",
+      "Can improve performance for small functions",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is true about pure virtual functions?",
+    "options": [
+      "Must be implemented in derived classes",
+      "Have implementation in base class",
+      "Cannot be declared in abstract classes",
+      "None"
+    ],
+    "answer": "Must be implemented in derived classes"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the effect of declaring a class as final?",
+    "options": [
+      "Class cannot be inherited",
+      "Class cannot be instantiated",
+      "Class is abstract",
+      "None"
+    ],
+    "answer": "Class cannot be inherited"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following best describes encapsulation?",
+    "options": [
+      "Hiding data and methods inside a class",
+      "Inheriting data from base class",
+      "Overloading functions",
+      "None"
+    ],
+    "answer": "Hiding data and methods inside a class"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the difference between struct and class in C++?",
+    "options": [
+      "Struct members are public by default, class members are private",
+      "Structs cannot have functions",
+      "Classes cannot be instantiated",
+      "None"
+    ],
+    "answer": "Struct members are public by default, class members are private"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is true about templates?",
+    "options": [
+      "Templates allow generic programming",
+      "Templates are only for functions",
+      "Templates are slower at runtime",
+      "None"
+    ],
+    "answer": "Templates allow generic programming"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What happens if a base class declares a function as virtual, but derived class does not override",
+    "options": [
+      "Base class function is called",
+      "Derived class function is called",
+      "Compilation error",
+      "Runtime error"
+    ],
+    "answer": "Base class function is called"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is a vtable?",
+    "options": [
+      "A table used to implement virtual functions at runtime",
+      "Table for storing variables",
+      "Table for static functions",
+      "None"
+    ],
+    "answer": "A table used to implement virtual functions at runtime"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following statements about multiple inheritance is true?",
+    "options": [
+      "It can lead to ambiguity",
+      "It is not supported in C++",
+      "All base classes must be virtual",
+      "None"
+    ],
+    "answer": "It can lead to ambiguity"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the meaning of 'overriding'?",
+    "options": [
+      "Derived class provides new implementation of base class virtual function",
+      "Derived class hides base class function",
+      "Using same function name with different parameters",
+      "None"
+    ],
+    "answer": "Derived class provides new implementation of base class virtual function"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What keyword is used to prevent further overriding of a virtual function?",
+    "options": [
+      "sealed",
+      "final",
+      "override",
+      "const"
+    ],
+    "answer": "final"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the purpose of virtual destructors?",
+    "options": [
+      "To ensure proper destruction of derived objects via base pointers",
+      "To prevent object deletion",
+      "To override base class destructor",
+      "None"
+    ],
+    "answer": "To ensure proper destruction of derived objects via base pointers"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is NOT a valid access specifier?",
+    "options": [
+      "public",
+      "protected",
+      "internal",
+      "private"
+    ],
+    "answer": "internal"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which operator is used to dereference a pointer?",
+    "options": [
+      "*",
+      "&",
+      "->",
+      "."
+    ],
+    "answer": "*"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What does the explicit keyword prevent?",
+    "options": [
+      "Implicit type conversions via constructors",
+      "Usage of default constructors",
+      "Function overloading",
+      "None"
+    ],
+    "answer": "Implicit type conversions via constructors"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What happens when you overload the assignment operator?",
+    "options": [
+      "You define how objects are copied",
+      "It prevents object copying",
+      "It is not allowed in C++",
+      "None"
+    ],
+    "answer": "You define how objects are copied"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following statements is true about inline functions?",
+    "options": [
+      "Inline functions increase code size",
+      "Inline functions decrease runtime overhead",
+      "Inline functions cannot be recursive",
+      "Both A and B"
+    ],
+    "answer": "Both A and B"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What does the new operator return?",
+    "options": [
+      "Reference to allocated object",
+      "Pointer to allocated memory",
+      "Copy of allocated object",
+      "None"
+    ],
+    "answer": "Pointer to allocated memory"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is true about constructors?",
+    "options": [
+      "They can have return types",
+      "They cannot be inherited",
+      "They can be virtual",
+      "None"
+    ],
+    "answer": "They cannot be inherited"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the correct way to declare an interface in C++?",
+    "options": [
+      "Class with all pure virtual functions",
+      "Abstract class with no members",
+      "Class with only private members",
+      "None"
+    ],
+    "answer": "Class with all pure virtual functions"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the difference between shallow copy and deep copy?",
+    "options": [
+      "Shallow copy copies pointers, deep copy copies data",
+      "Deep copy copies pointers, shallow copy copies data",
+      "Both are same",
+      "None"
+    ],
+    "answer": "Shallow copy copies pointers, deep copy copies data"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "How are memory leaks prevented in C++?",
+    "options": [
+      "Using destructors to free memory",
+      "Using smart pointers",
+      "Avoiding dynamic memory allocation",
+      "Both A and B"
+    ],
+    "answer": "Both A and B"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What keyword is used to declare a constant member function?",
+    "options": [
+      "const",
+      "static",
+      "volatile",
+      "mutable"
+    ],
+    "answer": "const"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following statements about references is true?",
+    "options": [
+      "References must be initialized when declared",
+      "References can be reseated to refer to another object",
+      "References are null by default",
+      "None"
+    ],
+    "answer": "References must be initialized when declared"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is true about friend classes?",
+    "options": [
+      "Friend classes have access to private members",
+      "Friend classes are derived classes",
+      "Friend classes are always global",
+      "None"
+    ],
+    "answer": "Friend classes have access to private members"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is NOT true about virtual functions?",
+    "options": [
+      "They support dynamic dispatch",
+      "They can be overloaded",
+      "They cannot be static",
+      "They must be public"
+    ],
+    "answer": "They must be public"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the purpose of the mutable keyword?",
+    "options": [
+      "Allows modification of member variables inside const functions",
+      "Makes variables immutable",
+      "Marks variables for thread safety",
+      "None"
+    ],
+    "answer": "Allows modification of member variables inside const functions"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following statements is true for C++ destructors?",
+    "options": [
+      "Destructor names start with a tilde (~)",
+      "Destructors can be overloaded",
+      "Destructors can take arguments",
+      "None"
+    ],
+    "answer": "Destructor names start with a tilde (~)"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following best describes encapsulation?",
+    "options": [
+      "Binding data and functions into a single unit",
+      "Hiding details from the outside world",
+      "Both A and B",
+      "None"
+    ],
+    "answer": "Both A and B"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the output of this code?",
+    "options": [
+      "Base",
+      "Derived",
+      "Compilation error",
+      "Runtime error"
+    ],
+    "answer": "Derived"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the correct way to call a base class function from a derived class?",
+    "options": [
+      "Base::function();",
+      "this->function();",
+      "function();",
+      "None"
+    ],
+    "answer": "Base::function();"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the difference between struct and class?",
+    "options": [
+      "Default access specifier is public in struct and private in class",
+      "Structs cannot have member functions",
+      "Classes cannot be instantiated",
+      "None"
+    ],
+    "answer": "Default access specifier is public in struct and private in class"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "How is inheritance specified in C++?",
+    "options": [
+      "class Derived : public Base {}",
+      "class Derived inherits Base {}",
+      "class Derived < Base {}",
+      "None"
+    ],
+    "answer": "class Derived : public Base {}"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "What is the keyword used to indicate a derived class is inheriting privately?",
+    "options": [
+      "private",
+      "public",
+      "protected",
+      "internal"
+    ],
+    "answer": "private"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following is NOT a feature of Object-Oriented Programming?",
+    "options": [
+      "Encapsulation",
+      "Inheritance",
+      "Polymorphism",
+      "Pointer Arithmetic"
+    ],
+    "answer": "Pointer Arithmetic"
+  },
+  {
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "Object Oriented Programming",
+    "question": "Which of the following best describes polymorphism in C++?",
+    "options": [
+      "Ability of functions to perform different tasks based on object type",
+      "Hiding data members",
+      "Creating new data types",
+      "Accessing private members"
+    ],
+    "answer": "Ability of functions to perform different tasks based on object type"
+  }
+]

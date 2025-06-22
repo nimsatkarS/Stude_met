@@ -1,0 +1,21 @@
+<!-- File: templates/student_dashboard.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student Dashboard</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+ <h2>Welcome, {{ user.name }}</h2>
+<p>Branch: {{ user.branch }}</p>
+<a href="/quiz">Take Quiz</a> |
+<a href="/predict-page">Predict Questions</a>
+
+</body>
+</html> -->
+
+<h2>Welcome, {{ user.name }}</h2>
+<p>Email: {{ user.email }}</p>
+<p>Branch: {{ user.branch }}</p>
+<a href="/quiz">Take Quiz</a> | <a href="/predict">Predict Questions</a>

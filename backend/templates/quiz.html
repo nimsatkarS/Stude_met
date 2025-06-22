@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>STUDY-Met | Quiz Generator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 0;
+    }
+    nav {
+      background-color: #004466;
+      color: white;
+      padding: 15px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    nav h1 {
+      margin: 0;
+    }
+    nav a {
+      color: white;
+      margin-left: 20px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+    label {
+      font-weight: bold;
+    }
+    select, button {
+      padding: 10px;
+      font-size: 16px;
+      margin-bottom: 20px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+    button {
+      background-color: #004466;
+      color: white;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #006699;
+    }
+    .question {
+      margin-top: 20px;
+    }
+    .question p {
+      font-weight: bold;
+    }
+    .result {
+      margin-top: 30px;
+      font-size: 18px;
+      color: green;
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <h1>STUDY-Met</h1>
+    <div>
+      <a href="/">Home</a>
+      <a href="/quiz">Quiz</a>
+    </div>
+  </nav>
+
+  <div class="container">
+    <h2>Generate Quiz</h2>
+
+    <label for="branch">Branch:</label>
+    <select id="branch"></select>
+
+    <label for="semester">Semester:</label>
+    <select id="semester"></select>
+
+    <!-- <label for="subject">Subject:</label>
+    <select id="subject"></select> -->
+
+    <label for="subject">Subject:</label>
+<input type="text" id="subject" placeholder="Enter subject manually (e.g. Data Structures)">
+
+
+    <button onclick="generateQuiz()">Generate Quiz</button>
+
+    <form id="quiz-form"></form>
+    <div id="score" class="result"></div>
+  </div>
+
+  <script>
+    // Populate dropdowns on page load
+    window.onload = function () {
+      fetch('/get-options')
+        .then(res => res.json())
+        .then(data => {
+          const branchSelect = document.getElementById('branch');
+          const semesterSelect = document.getElementById('semester');
+          const subjectSelect = document.getElementById('subject');
+
+          data.branches.forEach(branch => {
+            const opt = document.createElement('option');
+            opt.value = branch;
+            opt.textContent = branch;
+            branchSelect.appendChild(opt);
+          });
+
+          data.semesters.forEach(sem => {
+            const opt = document.createElement('option');
+            opt.value = sem;
+            opt.textContent = sem;
+            semesterSelect.appendChild(opt);
+          });
+
+          data.subjects.forEach(sub => {
+            const opt = document.createElement('option');
+            opt.value = sub;
+            opt.textContent = sub;
+            subjectSelect.appendChild(opt);
+          });
+        });
+    };
+
+    function generateQuiz() {
+      const branch = document.getElementById('branch').value;
+      const semester = document.getElementById('semester').value;
+      const subject = document.getElementById('subject').value;
+
+      fetch('/get-mcq', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ branch, semester, subject })
+      })
+        .then(res => res.json())
+        .then(data => {
+          const quizForm = document.getElementById('quiz-form');
+          quizForm.innerHTML = '';
+          document.getElementById('score').textContent = '';
+
+          if (!data.length) {
+            quizForm.innerHTML = '<p>No questions found.</p>';
+            return;
+          }
+
+          data.slice(0, 30).forEach((q, i) => {
+            const qDiv = document.createElement('div');
+            qDiv.className = 'question';
+
+            const question = document.createElement('p');
+            question.textContent = `${i + 1}. ${q.question}`;
+            qDiv.appendChild(question);
+
+            q.options.forEach(opt => {
+              const label = document.createElement('label');
+              const radio = document.createElement('input');
+              radio.type = 'radio';
+              radio.name = `q${i}`;
+              radio.value = opt;
+              label.appendChild(radio);
+              label.appendChild(document.createTextNode(opt));
+              qDiv.appendChild(label);
+              qDiv.appendChild(document.createElement('br'));
+            });
+
+            const hiddenAnswer = document.createElement('input');
+            hiddenAnswer.type = 'hidden';
+            hiddenAnswer.name = `a${i}`;
+            hiddenAnswer.value = q.answer;
+            qDiv.appendChild(hiddenAnswer);
+
+            quizForm.appendChild(qDiv);
+          });
+
+          const submitBtn = document.createElement('button');
+          submitBtn.textContent = 'Submit Quiz';
+          submitBtn.type = 'button';
+          submitBtn.onclick = calculateScore;
+          quizForm.appendChild(submitBtn);
+        });
+    }
+
+    function calculateScore() {
+      const form = document.getElementById('quiz-form');
+      let correct = 0, total = 0;
+
+      for (let i = 0; i < 30; i++) {
+        const selected = form.querySelector(`input[name="q${i}"]:checked`);
+        const answer = form.querySelector(`input[name="a${i}"]`).value;
+
+        if (selected) {
+          if (selected.value.trim().toLowerCase() === answer.trim().toLowerCase()) {
+            correct++;
+          }
+          total++;
+        }
+      }
+
+      document.getElementById('score').textContent = `✅ Correct: ${correct}, ❌ Incorrect: ${total - correct}`;
+    }
+  </script>
+</body>
+</html>

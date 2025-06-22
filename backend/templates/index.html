@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>STUDY-Met - Question Predictor</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+    }
+
+    nav {
+      background-color: #004466;
+      color: white;
+      padding: 15px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    nav h1 {
+      margin: 0;
+      font-size: 20px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin-left: 20px;
+      font-weight: bold;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+
+    h2 {
+      text-align: center;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+
+    label {
+      font-weight: bold;
+    }
+
+    select, input[type="submit"] {
+      padding: 10px;
+      border-radius: 5px;
+      border: 1px solid #aaa;
+      font-size: 16px;
+    }
+
+    input[type="submit"] {
+      background-color: #004466;
+      color: white;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover {
+      background-color: #006699;
+    }
+
+    .results {
+      margin-top: 30px;
+    }
+
+    .results h3 {
+      margin-top: 20px;
+      color: #004466;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 5px;
+    }
+
+    .error {
+      color: red;
+      font-weight: bold;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <h1>STUDY-Met</h1>
+    <div>
+      <a href="/">Home</a>
+      <a href="/quiz">Quiz</a>
+       <a href="/student/login">Student Login</a>
+  <a href="/faculty/login">Faculty Login</a>
+  <a href="/admin/login">Admin Login</a>
+    </div>
+  </nav>
+
+  <div class="container">
+    <h2>Predict Important Questions</h2>
+    <form id="predict-form">
+      <label for="branch">Branch</label>
+      <select id="branch" name="branch" required>
+        <option value="">-- Select Branch --</option>
+      </select>
+
+      <label for="semester">Semester</label>
+      <select id="semester" name="semester" required>
+        <option value="">-- Select Semester --</option>
+      </select>
+
+      <label for="subject">Subject</label>
+      <select id="subject" name="subject" required>
+        <option value="">-- Select Subject --</option>
+      </select>
+
+      <input type="submit" value="Predict Questions">
+    </form>
+
+    <div id="results" class="results"></div>
+  </div>
+
+  <script>
+    // Load dropdowns on page load
+    window.onload = function () {
+      fetch('/get-options')
+        .then(res => res.json())
+        .then(data => {
+          const branchSelect = document.getElementById('branch');
+          const semesterSelect = document.getElementById('semester');
+          const subjectSelect = document.getElementById('subject');
+
+          // Branch
+          data.branches.forEach(branch => {
+            const option = document.createElement('option');
+            option.value = branch;
+            option.textContent = branch;
+            branchSelect.appendChild(option);
+          });
+
+          // Semester
+          data.semesters.forEach(sem => {
+            const option = document.createElement('option');
+            option.value = sem;
+            option.textContent = sem;
+            semesterSelect.appendChild(option);
+          });
+
+          // Subject
+          data.subjects.forEach(subject => {
+            const option = document.createElement('option');
+            option.value = subject;
+            option.textContent = subject;
+            subjectSelect.appendChild(option);
+          });
+        })
+        .catch(err => {
+          alert("Failed to load dropdown options");
+          console.error(err);
+        });
+    };
+
+    // Submit prediction
+    document.getElementById('predict-form').addEventListener('submit', function (e) {
+      e.preventDefault();
+
+      const branch = document.getElementById('branch').value;
+      const semester = document.getElementById('semester').value;
+      const subject = document.getElementById('subject').value;
+
+      fetch('/predict', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ branch, semester, subject })
+      })
+        .then(res => res.json())
+        .then(data => {
+          const resultsDiv = document.getElementById('results');
+          resultsDiv.innerHTML = '';
+
+          if (data.message) {
+            resultsDiv.innerHTML = `<p class="error">${data.message}</p>`;
+          } else {
+            for (let cluster in data) {
+              const clusterDiv = document.createElement('div');
+              clusterDiv.innerHTML = `<h3>Cluster ${cluster}</h3><ul>` +
+                data[cluster].map(q => `<li>${q}</li>`).join('') +
+                `</ul>`;
+              resultsDiv.appendChild(clusterDiv);
+            }
+          }
+        })
+        .catch(err => {
+          document.getElementById('results').innerHTML =
+            '<p class="error">Something went wrong. Please try again.</p>';
+          console.error(err);
+        });
+    });
+  </script>
+
+</body>
+</html>

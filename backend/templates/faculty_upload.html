@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Upload Questions - Faculty</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f8fa;
+    }
+    .upload-box {
+      max-width: 500px;
+      margin: 50px auto;
+      padding: 30px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+    h2 {
+      text-align: center;
+    }
+    label {
+      font-weight: bold;
+    }
+    input, select {
+      width: 100%;
+      padding: 10px;
+      margin-top: 8px;
+      margin-bottom: 20px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+    button {
+      width: 100%;
+      padding: 12px;
+      background: #004466;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0077aa;
+    }
+  </style>
+</head>
+<body>
+  <div class="upload-box">
+    <h2>Upload Questions</h2>
+    <form method="POST" enctype="multipart/form-data">
+      <label>Branch:</label>
+      <input type="text" name="branch" required>
+
+      <label>Subject:</label>
+      <input type="text" name="subject" required>
+
+      <label>Semester:</label>
+      <input type="text" name="semester" required>
+
+      <label>Select File:</label>
+      <input type="file" name="file" accept=".pdf,.jpg,.jpeg,.png,.csv,.json" required>
+
+      <button type="submit">Upload</button>
+    </form>
+  </div>
+</body>
+</html>
